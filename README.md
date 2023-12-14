@@ -1,4 +1,4 @@
-[![MasterHead](https://tinkercademy.com/wp-content/uploads/2017/04/Generic-Banner-03-blue-Game.png)](https://github.com/Modequick )
+[![MasterHead](https://tinkercademy.com/wp-content/uploads/2017/04/Generic-Banner-03-blue-Game.png)](https://github.com/ModeQuickJrJr )
 <img align ="right" alt ="coding" width = 400 src ="https://cdn.dribbble.com/users/100142/screenshots/2920352/loading-animation-cd-v2.gif">
 <h1 align="center">I'm Kevin Adrian Halim A Data Analyst From Indonesia 🇮🇩</h1> 
 <H1 align ="left"> About Me! :sunglasses: </H1>
@@ -20,20 +20,20 @@
 ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=ModeQuick&theme=merko&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ModeQuick&theme=merko&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=ModeQuickJr&theme=merko&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ModeQuickJr&theme=merko&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ModeQuick&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=ModeQuickJr&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ModeQuick&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=ModeQuickJr&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=modequick&label=Profile%20views&color=0e75b6&style=flat" alt="modequick" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ModeQuickJr&label=Profile%20views&color=0e75b6&style=flat" alt="ModeQuickJr" /> </p>
